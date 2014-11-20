@@ -1,5 +1,7 @@
 # VIM - Vi IMproved
 
+## Green Circle
+
 + Hit the ground running: [`vimtutor`][vimtutor]
 + Get swol, swol out of control at the [VimGym][vim-gym]
 + Upgrade Vim to 7.4
@@ -8,6 +10,15 @@
 [vim-gym]: ./part1/vim-gym.md
 [vimtutor]: ./part1/vimtutor.md
 [vimrc]: ./part1/vimrc.md
+
+## Blue Square
+
+
+## Double Black Diamond
+
++ Every stroke counts [Vimgolf][vimgolf]
+
+[vimgolf]: http://vimgolf.com
 
 ## Plugins
 
