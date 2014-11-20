@@ -26,3 +26,8 @@ imap <Down> WATTTT!
 imap <Left> WATTTT!
 imap <Right> WATTT!
 ```
+
+## No Pain, No Gain
+
+<img
+src="http://www.quickanddirtytips.com/sites/default/files/styles/insert_small/public/images/5227/tough-nerd.jpg">
