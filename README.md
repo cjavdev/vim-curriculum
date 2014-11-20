@@ -1,6 +1,6 @@
 # VIM - Vi IMproved
 
-## :snail: :turtle:
+## Getting started: :snail: :turtle:
 
 + Hit the ground running: [`vimtutor`][vimtutor]
 + Get swol, swol out of control at the [VimGym][vim-gym]
@@ -11,7 +11,7 @@
 [vimtutor]: ./part1/vimtutor.md
 [vimrc]: ./part1/vimrc.md
 
-## :racehorse: :horse: :rabbit: :horse_racing:
+## Going further: :racehorse: :horse: :rabbit: :horse_racing:
 
 + Every stroke counts :golf: [Vimgolf][vimgolf]
 
