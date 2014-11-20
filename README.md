@@ -48,7 +48,7 @@ max). Start with ctrlp.vim.
 
 ## Integrate
 
-+ [:movie_camera: Ben Orenstein videos][vim-talk]
++ [:movie_camera: Ben Orenstein video][vim-talk]
 + [:movie_camera: vimcasts][vimcasts]
 + Read [tbaggery.com][tbaggery]
 + Follow [@tpope][tpope]
