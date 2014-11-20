@@ -6,7 +6,7 @@ management systems that exist (pathogen and [vundle][vundle] are the most
 common). I've tried both pathogen and [vundle][vundle] and you **must** use
 [vundle][vundle].
 
-Using vundle makes adding and instlaling plugins to use with vim much
+Using vundle makes adding and installing plugins to use with vim much
 like adding gems to a `Gemfile`.
 
 Follow [these instructions][vundle-quick-start] and get vundle installed
