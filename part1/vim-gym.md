@@ -17,7 +17,7 @@ Click `Modifier Keys...`
 
 ## Stop using arrow keys
 
-```vimscript
+```vim
 " stop using arrow keys
 imap <Up> WATTTT!
 imap <Down> WATTTT!
