@@ -19,11 +19,13 @@ _Not sure you want to dive in?_ [Check this out][worth-the-effort]
 ## Going further: :racehorse: :horse: :rabbit: :horse_racing:
 
 + [The Vim Learning Curve is a Myth][the-vim-learning-curve-is-a-myth]
++ [Vim is a Language][vim-is-a-lang]
 + Play [Vim Adventures][vim-adventures]
 + Every stroke counts :golf: [Vimgolf][vimgolf]
 
 [vimgolf]: http://vimgolf.com
 [vim-adventures]: http://vim-adventures.com/
+[vim-is-a-lang]: http://benmccormick.org/2014/07/02/learning-vim-in-2014-vim-as-language/
 [the-vim-learning-curve-is-a-myth]: http://robots.thoughtbot.com/the-vim-learning-curve-is-a-myth
 
 ## Plugins
