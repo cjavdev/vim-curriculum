@@ -6,8 +6,8 @@ Time to get stronger and faster!
 
 Open `System Preferences` > `Keyboard` > `Keyboard` tab.
 
-Set `Key Repeat` to `Slow`
-Set `Delay Until Repeat` to `Long`
++ Set `Key Repeat` to `Slow`
++ Set `Delay Until Repeat` to `Long`
 
 ## WHO USES CAPSLOCK ANYWAYS?!?
 
