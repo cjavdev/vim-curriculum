@@ -1,5 +1,9 @@
 # VIM - Vi IMproved
 
+_Not sure you want to dive in?_ [Check this out][worth-the-effort]
+
+[worth-the-effort]: http://stackoverflow.com/questions/597077/is-learning-vim-worth-the-effort
+
 ## Getting started: :snail: :turtle:
 
 + Hit the ground running: [`vimtutor`][vimtutor]
@@ -14,11 +18,13 @@
 
 ## Going further: :racehorse: :horse: :rabbit: :horse_racing:
 
++ [The Vim Learning Curve is a Myth][the-vim-learning-curve-is-a-myth]
 + Play [Vim Adventures][vim-adventures]
 + Every stroke counts :golf: [Vimgolf][vimgolf]
 
 [vimgolf]: http://vimgolf.com
 [vim-adventures]: http://vim-adventures.com/
+[the-vim-learning-curve-is-a-myth]: http://robots.thoughtbot.com/the-vim-learning-curve-is-a-myth
 
 ## Plugins
 
