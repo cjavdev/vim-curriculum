@@ -67,3 +67,10 @@ max). Start with ctrlp.vim.
 [tbaggery]: http://tbaggery.com/
 [at-vimgolf]: https://twitter.com/vimgolf
 [vimcasts]: http://vimcasts.org/episodes/
+
+## Cheatsheets
+
+<img
+src="http://zzyxx.wdfiles.com/local--files/tui-text-editors/vi-vim-cheat-sheet-belgian-azerty.svg">
+<img
+src="https://cdn.shopify.com/s/files/1/0165/4168/files/preview.png">
