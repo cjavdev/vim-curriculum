@@ -23,7 +23,7 @@ _Not sure you want to dive in?_ [Check this out][worth-the-effort]
 + Play [Vim Adventures][vim-adventures]
 + Every stroke counts :golf: [Vimgolf][vimgolf]
 
-[vimgolf]: http://vimgolf.com
+[vimgolf]: ./part2/vimgolf.md
 [vim-adventures]: http://vim-adventures.com/
 [vim-is-a-lang]: http://benmccormick.org/2014/07/02/learning-vim-in-2014-vim-as-language/
 [the-vim-learning-curve-is-a-myth]: http://robots.thoughtbot.com/the-vim-learning-curve-is-a-myth
