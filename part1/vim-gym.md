@@ -1,6 +1,11 @@
 # VimGym
 
-Time to get stronger and faster!
+_Time to get stronger and faster!_
+
+Mild suggestion: Uninstall your existing text editor. Edit everything
+with vim. Code, emails, blog posts, tweets, commit messages, todo lists,
+love letters, baby name lists, plans to take over the world should all
+be edited with vim. Go All In!
 
 ## Slow is Smooth, Smooth is FAST!
 
@@ -26,6 +31,12 @@ imap <Down> WATTTT!
 imap <Left> WATTTT!
 imap <Right> WATTT!
 ```
+
+## No more mouse
+
++ Navigate chrome with [vimium][vimium]
+
+[vimium]: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en
 
 ## No Pain, No Gain
 

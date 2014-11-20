@@ -1,6 +1,6 @@
 # VIM - Vi IMproved
 
-## Green Circle
+## :snail: :turtle:
 
 + Hit the ground running: [`vimtutor`][vimtutor]
 + Get swol, swol out of control at the [VimGym][vim-gym]
@@ -11,12 +11,9 @@
 [vimtutor]: ./part1/vimtutor.md
 [vimrc]: ./part1/vimrc.md
 
-## Blue Square
+## :racehorse: :horse: :rabbit: :horse_racing:
 
-
-## Double Black Diamond
-
-+ Every stroke counts [Vimgolf][vimgolf]
++ Every stroke counts :golf: [Vimgolf][vimgolf]
 
 [vimgolf]: http://vimgolf.com
 
