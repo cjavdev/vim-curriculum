@@ -2,10 +2,10 @@
 
 _Time to get stronger and faster!_
 
-Mild suggestion: Uninstall your existing text editor. Edit everything
-with vim. Code, emails, blog posts, tweets, commit messages, todo lists,
-love letters, baby name lists, plans to take over the world should all
-be edited with vim. Go All In!
+**Mild suggestion**: Uninstall your existing text editor.  **Super
+strong suggestion**: Edit everything with vim. Code, emails, blog posts,
+tweets, commit messages, todo lists, love letters, baby name lists,
+plans to take over the world should all be edited with vim. Go All In!
 
 ## Slow is Smooth, Smooth is FAST!
 
