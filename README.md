@@ -26,12 +26,28 @@ Add these one at a time as you need them, if you add them all at once
 you'll forget what you have and how to use it. (One per week is a good
 max). Start with ctrlp.vim.
 
-+ Plugin 'gmarik/vundle' -> plugin manager
-+ Plugin 'kien/ctrlp.vim' -> fuzzy find files (like Cmd-T)
-+ Plugin 'scrooloose/syntastic' -> syntax checking
-+ Plugin 'w1zeman1p/vim-snippets' -> add snippets using tab
-+ Plugin 'w1zeman1p/vim-snipmate' -> use textmate snippets
-+ Plugin 'tpope/vim-rails' -> navigate rails like a boss
-+ Plugin 'scrooloose/nerdtree' -> directory structure
-+ Plugin 'vim-scripts/tComment' -> comment code quickly
-+ Plugin 'maksimr/vim-jsbeautify' -> map shortcuts to autoformat javascript
++ [Plugin 'gmarik/vundle'][vundle] -> plugin manager
++ [Plugin 'kien/ctrlp.vim'][ctrlp] -> fuzzy find files (like Cmd-T)
++ [Plugin 'scrooloose/syntastic'][syntastic] -> syntax checking
++ [Plugin 'w1zeman1p/vim-snippets'][vim-snippets] -> add snippets using tab
++ [Plugin 'w1zeman1p/vim-snipmate'][vim-snipmate] -> use textmate snippets
++ [Plugin 'tpope/vim-rails'][vim-rails] -> navigate rails like a boss
++ [Plugin 'scrooloose/nerdtree'][nerdtree] -> directory structure
++ [Plugin 'vim-scripts/tComment'][tcomment] -> comment code quickly
++ [Plugin 'maksimr/vim-jsbeautify'][jsbeautify] -> map shortcuts to autoformat javascript
+
+[vundle]: https://github.com/gmarik/Vundle.vim
+[ctrlp]: https://github.com/kien/ctrlp.vim
+[syntastic]: https://github.com/scrooloose/syntastic
+[vim-snippets]: https://github.com/w1zeman1p/vim-snippets
+[vim-snipmate]: https://github.com/w1zeman1p/vim-snipmate
+[vim-rails]: https://github.com/tpope/vim-rails
+[nerdtree]: https://github.com/scrooloose/nerdtree
+[tcomment]: https://github.com/vim-scripts/tComment
+[jsbeautify]: https://github.com/maksimr/vim-jsbeautify
+
+## Resources
+
++ [vimcasts][vimcasts]
+
+[vimcasts]: http://vimcasts.org/episodes/
