@@ -11,6 +11,8 @@ Open `System Preferences` > `Keyboard` > `Keyboard` tab.
 
 ## WHO USES CAPSLOCK ANYWAYS?!?
 
+Open System Preferences > Keyboard > Keyboard tab.
+
 Click `Modifier Keys...`
 
 + Set `Caps Lock Key` to `Control`
