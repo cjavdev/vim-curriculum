@@ -22,6 +22,9 @@ like adding gems to a `Gemfile`.
 Follow [these instructions][vundle-quick-start] and get vundle installed
 and running with your `.vimrc`.
 
+Then read through [A good vimrc][a-good-vimrc] learn about some good
+settings to consider for your `.vimrc`.
+
 [a-good-vimrc]: http://dougblack.io/words/a-good-vimrc.html
 [shred]: http://www.urbandictionary.com/define.php?term=shred
 [vundle]: https://github.com/gmarik/Vundle.vim
