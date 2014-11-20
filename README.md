@@ -14,9 +14,11 @@
 
 ## Going further: :racehorse: :horse: :rabbit: :horse_racing:
 
++ Play [Vim Adventures][vim-adventures]
 + Every stroke counts :golf: [Vimgolf][vimgolf]
 
 [vimgolf]: http://vimgolf.com
+[vim-adventures]: http://vim-adventures.com/
 
 ## Plugins
 
