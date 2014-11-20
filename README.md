@@ -46,8 +46,16 @@ max). Start with ctrlp.vim.
 [tcomment]: https://github.com/vim-scripts/tComment
 [jsbeautify]: https://github.com/maksimr/vim-jsbeautify
 
-## Resources
+## Integrate
 
-+ [vimcasts][vimcasts]
++ [:movie_camera: Ben Orenstein videos][vim-talk]
++ [:movie_camera: vimcasts][vimcasts]
++ Read [tbaggery.com][tbaggery]
++ Follow [@tpope][tpope]
++ Follow [@vimgolf][at-vimgolf]
 
+[vim-talk]: https://www.youtube.com/watch?v=SkdrYWhh-8s
+[tpope]: https://twitter.com/tpope
+[tbaggery]: http://tbaggery.com/
+[at-vimgolf]: https://twitter.com/vimgolf
 [vimcasts]: http://vimcasts.org/episodes/
