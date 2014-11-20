@@ -13,7 +13,7 @@ Open `System Preferences` > `Keyboard` > `Keyboard` tab.
 
 Click `Modifier Keys...`
 
-Set `Caps Lock Key` to `Control`
++ Set `Caps Lock Key` to `Control`
 
 ## Stop using arrow keys
 
