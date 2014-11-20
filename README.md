@@ -34,6 +34,7 @@ Add these one at a time as you need them, if you add them all at once
 you'll forget what you have and how to use it. (One per week is a good
 max). Start with ctrlp.vim.
 
++ [Getting Started][plugins]
 + [Plugin 'gmarik/vundle'][vundle] -> plugin manager
 + [Plugin 'kien/ctrlp.vim'][ctrlp] -> fuzzy find files (like Cmd-T)
 + [Plugin 'scrooloose/syntastic'][syntastic] -> syntax checking
@@ -44,6 +45,7 @@ max). Start with ctrlp.vim.
 + [Plugin 'vim-scripts/tComment'][tcomment] -> comment code quickly
 + [Plugin 'maksimr/vim-jsbeautify'][jsbeautify] -> map shortcuts to autoformat javascript
 
+[plugins]: ./part1/plugins.md
 [vundle]: https://github.com/gmarik/Vundle.vim
 [ctrlp]: https://github.com/kien/ctrlp.vim
 [syntastic]: https://github.com/scrooloose/syntastic
