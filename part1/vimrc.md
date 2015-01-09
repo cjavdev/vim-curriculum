@@ -5,8 +5,9 @@ productivity, you'll want to configure your editor with everything you
 need to [shred][shred] as fast as possible with vim.
 
 **Do not!** just copy lines from another vimrc into yours without
-knowing what that is doing.  **Now is a good time to blowaway your
-existing `.vimrc` and start from scratch.**
+knowing what that is doing.  [**Now is a good time to blowaway your
+existing `.vimrc` and start from
+scratch.**](http://www.benorenstein.com/blog/your-first-vimrc-should-be-nearly-empty/)
 
 [**Go read about plugins**][plugins]
 
